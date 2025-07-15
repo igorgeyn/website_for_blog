@@ -1,0 +1,43 @@
+# Site settings
+title: Igor Geyn’s Blog
+email: you@igorgeyn.com
+description: >-
+  A blog about causal inference, energy policy, and more.
+baseurl: ""            # no subpath since this is at the root of your domain
+url: "https://blog.igorgeyn.com"
+
+twitter_username: igorgeyn
+github_username: igorgeyn
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed       # RSS feed
+  - jekyll-seo-tag    # Better SEO metadata
+  - jekyll-sitemap    # Generates sitemap.xml
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Permalinks: YYYY/MM/DD/title.html
+permalink: /:year/:month/:day/:title.html
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - CNAME   # keep your CNAME file, but don’t process it as a page
+
+# Optional: collections (if you ever add custom ones)
+# collections:
+#   drafts:
+#     output: false
