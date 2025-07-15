@@ -13,7 +13,7 @@ I ask the reader to think about they do on a given day. Regardless of your list 
 
 Believe it or not, that's all data science.
 
-## So why not teach DS explicitly?
+# So why not teach DS explicitly?
 
 I doubt my main argument—that most of us are real-life data scientists making decisions under constraints and uncertainty—is going to rock the boat. However, it does puzzle me then why we don't prioritize *explicit* data science instruction in more schools. In particular, I think we should be doing more to introduce concepts like confidence intervals/uncertainty, statistical inference, and many of the underlying concepts around probability at a much younger age. 
 
@@ -23,7 +23,7 @@ To say nothing of those studies that *still* make it into both news headlines an
 
 In short, learning statistics earlier would serve young adults tremendously by making them more cautious and skeptical consumers of claims and information. (Including this one!)
 
-## What about the academic benefits to learning DS?
+# What about the academic benefits to learning DS?
 
 Unlike other folks, I come to data science (DS) (1) having started in an era that, even though it's only a few years ago, did not frame things in explicitly "data science-y" terms and (2) from an originally non-technical background. I was going to be a lawyer.
 
@@ -31,7 +31,7 @@ What this combination of backgrounds allows me to do is speak to data science fr
 
 Regardless of one's chosen path/branch, learning DS skills sharpens abilities that translate into other classes. I went through the same experience in college when working on my senior honors thesis. As we spent more time digging into research output and learning the "craft" of research as my thesis leader, Professor Tom Wong, put it, I found myself sharpening quantitative skills (econ classes), analytical writing skills (required classes in the humanities), and overall just developing greater clarity in thoughts and verbal/written communication.
 
-## What is the best way for a young person to learn DS?
+# What is the best way for a young person to learn DS?
 
 To me, the difference between learning DS at a relatively younger age (i.e. middle and high school) versus learning it as a college major or on-the-job skill is the opportunity for exploration. As a young person, you have (1) time and (2) the opportunity to try things that older folks don't benefit from. (Trust me, I am now old-ish—but I used to be young.)
 
@@ -39,7 +39,7 @@ What this means, in practice, is that you can explore all sorts of different ang
 
 It also means that you can try a bunch of different projects. **This, in my view, is the greatest benefit to starting early: Trying as many real-world, real-data, real-life projects as you can to ask the question, "Do I really buy this?"** Developing a healthy skepticism *and then building skills to convince your inner skeptic of things* is, in my view, a big part of life.
 
-## How would working with you (Igor) help me achieve these skills?
+# How would working with you (Igor) help me achieve these skills?
 
 At the risk of coming across like a martial arts or Star Wars movie cliche, I would mostly serve as your guide. Of course, I have formal training in many core parts of data science through my UCLA PhD and I have spent many years working in the space. We can, on any given day, sit down and just have me show you a bunch of things. My guess is it could be pretty interesting and you might even learn something out of it.
 
